@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "The Nightmare Before Christmas",
+            "iscore": 8.0,
+            "rating": "PG",
+            "runtime": 75,
+            "released": [1993, 10, 29],
+            "country": "USA",
+            "posters": ["img/nightmarebeforexmas1.jpg","img/nightmarebeforexmas2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0107688/",
+            "website": "https://movies.disney.com/the-nightmare-before-christmas",
+            "likes": 888,
+            "dislikes": 98,
+            "posterindex": 0
+      },
+      {
+            "title": "The Batman",
+            "iscore": 8.3,
+            "rating": "PG-13",
+            "runtime": 176,
+            "released": [2022, 3, 4],
+            "country": "USA",
+            "posters": ["img/thebatman1.jpg", "img/thebatman2.jpg", "img/thebatman3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1877830/?ref_=fn_al_tt_1",
+            "website": "https://www.thebatman.com/",
+            "likes": 1068,
+            "dislikes": 127,
+            "posterindex": 0
+      },
+      {
+            "title": "The Corpse Bride",
+            "iscore": 7.4,
+            "rating": "PG",
+            "runtime": 77,
+            "released": [2005, 9, 16],
+            "country": "USA",
+            "posters": ["img/corpsebride1.jpg","img/corpsebride2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0121164/?ref_=nv_sr_srsg_0",
+            "website": "https://www.warnerbros.com/movies/tim-burtons-corpse-bride",
+            "likes": 1112,
+            "dislikes": 103,
+            "posterindex": 0
       }
 ]
